@@ -2,7 +2,7 @@
 make note to avoid memory losse
 The calculate process of DOS, should have threee parts.
 The first parts: optimized structures.
-Almoust every parts of vasp calculation should start at the optimize process. That is to make the structure more reasonable and near the practic.
+Almoust every parts of vasp calculation should start at the optimize process. That is to make the structure more reasonable and near the practis.
 INCAR
 SYSTM=Ti
 ENCUT=400
